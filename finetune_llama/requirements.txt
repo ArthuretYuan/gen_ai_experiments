@@ -1,0 +1,4 @@
+torch==2.5.1
+transformers==4.48.0
+peft==0.14.0
+sentencepiece==0.2.0
